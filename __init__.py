@@ -6,5 +6,6 @@ index = {
         'repository': 'https://github.com/Dwarf-Community/Dwarf-Extensions',
         'author': 'AileenLumina',
         'author_id': '172003635826393089',
+        'dependencies': [],
     },
 }
