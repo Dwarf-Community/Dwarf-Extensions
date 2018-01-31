@@ -1,4 +1,4 @@
-index = {
+INDEX = {
     'utilities': {
         'name': 'Utilities',
         'description': 'Various useful utilities.',
@@ -8,3 +8,6 @@ index = {
         'author_id': '172003635826393089',
     },
 }
+
+
+EXTENSION_TEMPLATE_REPOSITORY = 'https://github.com/Dwarf-Community/Dwarf-ExtensionTemplate'
