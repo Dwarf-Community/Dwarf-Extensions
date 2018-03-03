@@ -7,6 +7,14 @@ INDEX = {
         'author': 'AileenLumina',
         'author_id': '172003635826393089',
     },
+    'wiki': {
+        'name': 'Wiki',
+        'description': 'Wiki querying tools.',
+        'long_description': 'Tools for querying MediaWiki based websites.',
+        'repository': 'https://github.com/Dwarf-Community/Dwarf-Wiki',
+        'author': 'AileenLumina',
+        'author_id': '172003635826393089',
+    },
 }
 
 
